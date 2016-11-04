@@ -1,6 +1,7 @@
-## Your Name
+## Lawrence Hunt
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Art Director turned Jr. full-stack developer. I'm Then a sentence about what you've achieved.
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -12,7 +13,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Visual Communication, Writing & Creative Concepting
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,6 +21,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+- 2 years as a creative copywriter and 2 years as a creative art director at a multitude of advertising agencies
+- I
+- I won an industry award for an idea to gamifying saving
 
 ## Education
 
@@ -32,17 +37,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Warwick University (2008 to 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- English Literature & Creative Writing (First Class Honours)
+- Head of Warwick TV
 
-#### Any other qualifications
+#### Awards
+
+- Graphite Pencil, 2015 D&AD New Blood (International Creative Industry Awards) - for this concept to gamify saving between groups of friends
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**McCann London** (Feb 2016 to September 2016)    
+*Art Director*  
+
+**FCB Inferno** (October 2015 to February 2016)    
+*Freelance Art Director*  
+
+**Leo Burnett** (May 2015 to September 2015)   
+*Freelance Art Director*  
+
+**Guardian Labs** (start_date to end_date)   
+*Freelance Art Director*  
+
+## Interests
