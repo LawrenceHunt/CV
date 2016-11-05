@@ -1,24 +1,22 @@
 ## Lawrence Hunt
 *Former Advertising Creative looking for a new challenge as a Jr Full-Stack Developer*
 
+For five years I worked in the creative departments of various ad agencies, first as a copywriter and then as an Art Director.
+I have been coding for several years, but after graduating from Europe's top coding bootcamp, I'm hooked.
+I now want to apply my creative experience and problem solving skills to developing great online experiences.
 
-I have fallen deeply in love with the craftsmanship and rigour that comes with software development, and want to apply my creative experience and problem solving skills to
+I'm ambitious, team-driven, and confident in my ability to pick up any new technology quickly.
+I'm looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
 
-I am looking for a Junior Full Stack role where I can continue to learn as much as I have been,
+========================================================================================================================================================
 
-Art Director turned Jr. full-stack developer. Then a sentence about what you've achieved.
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-From Copywriter to Art Director to animator, I
+[Makers Academy](#makers) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
 
-[Makers Academy](#Experience at Makers Academy Coding Bootcamp) [Skills](#skills) | [Projects](#Projects Worked On) | [Education](#Previous Education) | [Experience](#Experience) | [Interests](#Further Interests) | [Blog](https://medium.com/@lawrencehunt)
+========================================================================================================================================================
 
+## <a name="makers"> Experience at Makers Academy Coding Bootcamp (September-December 2016)</a>
 
-
-## Experience at Makers Academy Coding Bootcamp (September-December 2016)
-
-####
-
-- I keep a weekly blog about my coding on Medium [here](https://medium.com/@lawrencehunt).
+#### Skills picked up
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -27,29 +25,39 @@ From Copywriter to Art Director to animator, I
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Projects Worked On
+- I keep a weekly blog about my coding on Medium [here](https://medium.com/@lawrencehunt).
+
+#### <a name="projects"> Projects Worked On </a>
 - [HauntedBnB](https://github.com/LawrenceHunt/makersbnb) - an AirBnB-style web app for listing haunted spaces, using Ruby, Sinatra, JQuery, PostgreSQL & DataMapper
 - [Chitter](https://github.com/LawrenceHunt/chitter-challenge) - a Twitter-style web app for community posting, featuring Ruby, Sinatra, PostgreSQL & DataMapper
 - [Trump Paper Scissors](https://github.com/LawrenceHunt/rps-challenge) - A rock paper scissors game with an election-themed twist - Ruby, Sinatra
 
-## Other Skills
+
+
+## <a name="skills"> Other Skills </a>
 
 #### Writing & Creative Concepting
 
-Over five years as a creative in ad agencies in London and in Europe, I have proven my ability to break a problem down and solve it with a set of logical and creative thinking techniques. I have learned the power of simple, direct communication. And I have developed a discipline for evaluating creative ideas against a set of criteria.
+Over five years in ad agencies in London and in Europe, I have proven my ability to break a problem down and solve it with both logical and lateral thinking.
+I have learned the power of simple, direct communication - in my work, as well as in a team environment.
+And I have developed a discipline for evaluating ideas against a set of criteria.
 
-- I collaborated on a large number of ad campaigns, from initial concepting to production, in teams of varying sizes.
+- I collaborated on a large number of ad campaigns, from initial concepting to production.
 - I won an industry award for an idea to 'gamify' saving between friends - see below.
 - In my first copywriting job I broke an agency fundraising record with a piece for a young homeless Charity.
 - I regularly contribute to the food and travel section of Flux, an online publication.
 
-#### Visual Communication, Design and Animation
 
-- As an Art Director
-- I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](www.psychoanalysis.org.uk)
+#### Visual Communication and Design
+
+As an Art Director I have learned how to create a visual narrative that speaks to the right people, both online and on-screen.
+
+- I learned how to work with writers, strategists, illustrators and developers.
+- In my spare time, I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](www.psychoanalysis.org.uk)
 
 
-## Previous Education
+
+## <a name="education"> Previous Education </a>
 
 #### School of Communication Arts 2.0 (September 2013 - July 2014)
 
@@ -64,12 +72,16 @@ Over five years as a creative in ad agencies in London and in Europe, I have pro
 - Wrote and directed a number of student shorts
 - Head of Student TV & Film Society
 
-## Awards
+
+
+## <a name="awards"> Awards </a>
 
 #### Graphite Pencil, D&AD New Blood 2015 (International Creative Industry Awards)
 - For [this concept to gamify saving between groups of friends](https://www.youtube.com/watch?v=RSRq5E6t5dU)) - click to watch my animated video.
 
-## Experience
+
+
+## <a name="experience"> Experience </a>
 
 **McCann, London** (Feb 2016 to September 2016)    
 *Art Director*  
@@ -91,10 +103,13 @@ Developing content for Valspar, Smart Meters and London Zoo
 *Copywriter*
 Writing copy for a number of charities including YMCA, Barnardo's, Sense and Unicef
 
+
+
 ## Foreign Languages
 
 - French: Business-level
 
-## Further Interests
 
-- Food writing, animation, Salsa dancing, Krav Maga
+## <a name = "interests">Further Interests</a>
+
+- Food writing, animation, saxophone, Krav Maga
