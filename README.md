@@ -51,7 +51,7 @@ And I have developed a discipline for evaluating ideas against a set of criteria
 As an Art Director I have learned how to create a visual narrative that speaks to the right people, both online and on-screen.
 
 - I learned how to work with writers, strategists, illustrators and developers.
-- In my spare time, I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](www.psychoanalysis.org.uk)
+- In my spare time, I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
 
 
