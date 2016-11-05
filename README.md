@@ -84,7 +84,7 @@ As an Art Director I have learned how to create a visual narrative that speaks t
 ## <a name="experience"> Experience </a>
 
 **Institute of Psychoanalysis, London** (May 2013-Present)
-*Freelance Designer and Web Developer**
+*Freelance Designer and Web Developer*
 Developing whole new branding, website and various marketing materials for the organisation
 
 **McCann, London** (Feb 2016 to September 2016)    
