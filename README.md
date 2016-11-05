@@ -2,17 +2,16 @@
 *Former Advertising Creative looking for a new challenge as a Jr Full-Stack Developer*
 
 For five years I worked in the creative departments of various ad agencies, first as a copywriter and then as an Art Director.
-I have been coding for several years, but after graduating from Europe's top coding bootcamp, I'm hooked.
+After graduating from Europe's top coding bootcamp, I have fallen for the craftsmanship and rigour that a programming career offers.
 I now want to apply my creative experience and problem solving skills to developing great online experiences.
 
-I'm ambitious, team-driven, and confident in my ability to pick up any new technology quickly.
-I'm looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
+Ambitious and team-driven, I am confident in my ability to contribute from day one and pick up any new technology quickly.
+I am looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
 
-========================================================================================================================================================
 
 [Makers Academy](#makers) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
 
-========================================================================================================================================================
+
 
 ## <a name="makers"> Experience at Makers Academy Coding Bootcamp (September-December 2016)</a>
 
@@ -24,7 +23,6 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
-
 - I keep a weekly blog about my coding on Medium [here](https://medium.com/@lawrencehunt).
 
 #### <a name="projects"> Projects Worked On </a>
@@ -57,6 +55,7 @@ As an Art Director I have learned how to create a visual narrative that speaks t
 
 
 
+
 ## <a name="education"> Previous Education </a>
 
 #### School of Communication Arts 2.0 (September 2013 - July 2014)
@@ -71,6 +70,7 @@ As an Art Director I have learned how to create a visual narrative that speaks t
 - First Class Hons. in English Literature & Creative Writing
 - Wrote and directed a number of student shorts
 - Head of Student TV & Film Society
+
 
 
 
