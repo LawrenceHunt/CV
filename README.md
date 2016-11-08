@@ -1,9 +1,8 @@
 ## Lawrence Hunt
 *Former Advertising Creative looking for a new challenge as a Jr Full-Stack Developer*
 
-For five years I worked in the creative departments of various ad agencies, first as a copywriter and then as an Art Director.
-After graduating from Europe's top coding bootcamp, I have fallen for the craftsmanship and rigour that a programming career offers.
-I now want to apply my creative experience and problem solving skills to developing great online experiences.
+For five years I have worked in the creative departments of some leading ad agencies, first as a Copywriter and then as an Art Director.
+Now, after graduating from Europe's top coding bootcamp, I'm hooked on programming - and looking to apply my skills to building great online experiences.
 
 Ambitious and team-driven, I am confident in my ability to contribute from day one and pick up any new technology quickly.
 I am looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
@@ -37,8 +36,7 @@ I am looking for a Junior Full Stack role in an agile environment where my creat
 #### Writing & Creative Concepting
 
 Over five years in ad agencies in London and in Europe, I have proven my ability to break a problem down and solve it with both logical and lateral thinking.
-I have learned the power of simple, direct communication - in my work, as well as in a team environment.
-And I have developed a discipline for evaluating ideas against a set of criteria.
+I have learned the power of simple, direct communication. And I have developed a discipline for evaluating ideas against a set of criteria.
 
 - I collaborated on a large number of ad campaigns, from initial concepting to production.
 - I won an industry award for an idea to 'gamify' saving between friends - see below.
