@@ -2,7 +2,7 @@
 *Former Advertising Creative looking for a new challenge as a Jr Full-Stack Developer*
 
 For five years I have worked in the creative departments of some leading ad agencies, first as a Copywriter and then as an Art Director.
-Now, after graduating from Europe's top coding bootcamp, I'm hooked on programming - and looking to apply my skills to building great online experiences.
+Now, after graduating from Europe's top coding bootcamp, I'm hooked on programming - and looking to apply my full range of skills to building great online experiences.
 
 Ambitious and team-driven, I am confident in my ability to contribute from day one and pick up any new technology quickly.
 I am looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
@@ -83,7 +83,7 @@ As an Art Director I have learned how to create a visual narrative that speaks t
 
 **Institute of Psychoanalysis, London** (May 2013-Present)
 *Freelance Designer and Web Developer*
-Developing whole new branding, website and various marketing materials for the organisation
+Helping to develop a whole new brand identity, website and various marketing materials
 
 **McCann, London** (Feb 2016 to September 2016)    
 *Art Director*  
