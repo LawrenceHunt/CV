@@ -4,7 +4,7 @@
 For five years I have worked in the creative departments of some leading ad agencies, first as a Copywriter and then as an Art Director.
 Now, after graduating from Europe's top coding bootcamp, I'm hooked on programming - and looking to apply my full range of skills to building great online experiences.
 
-Ambitious and team-driven, I am confident in my ability to contribute from day one and pick up any new technology quickly.
+Ambitious and team-driven, I'm confident in my ability to contribute from day one and pick up new technologies quickly.
 I am looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
 
 
