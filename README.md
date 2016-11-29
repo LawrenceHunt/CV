@@ -1,12 +1,15 @@
 ## Lawrence Hunt
-*Former Advertising Creative looking for a new challenge as a Jr Full-Stack Developer*
+*Junior Full-Stack Developer*
+
+I get most excited about projects where I can work in the full stack. In my final 2 weeks at Makers Academy I built a
 
 For five years I have worked in the creative departments of some leading ad agencies, first as a Copywriter and then as an Art Director.
 Now, after graduating from Europe's top coding bootcamp, I'm hooked on programming - and looking to apply my full range of skills to building great online experiences.
 
-Ambitious and team-driven, I'm confident in my ability to contribute from day one and pick up new technologies quickly.
+Ambitious and team-driven, I'm confident in my ability to contribute from day one and pick up new technologies quickly. BACK THIS UP - 2 WEEKS BUILT A FULL STACK PROJECT -
 I am looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
 
+I .
 
 [Makers Academy](#makers) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
 
@@ -29,29 +32,33 @@ I am looking for a Junior Full Stack role in an agile environment where my creat
 - [Chitter](https://github.com/LawrenceHunt/chitter-challenge) - a Twitter-style web app for community posting, featuring Ruby, Sinatra, PostgreSQL & DataMapper
 - [Trump Paper Scissors](https://github.com/LawrenceHunt/rps-challenge) - A rock paper scissors game with an election-themed twist - Ruby, Sinatra
 
+|                     PROJECT NAME                        |                               DESCRIPTION                                  |
+|---------------------------------------------------------|----------------------------------------------------------------------------|
+|[Final Project]                                          |                                                                            |
+|[MeteorBattle]()                                         |                                                                            |
+|[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM))  | Instagram clone with HashTags, likes and photo filters - built in Rails    |                                  
+|[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | Feel terrified anywhere in the world. AirBnB clone built in Sinatra        |
 
 
-## <a name="skills"> Other Skills </a>
+## <a name="skills"> What I can offer </a>
 
-#### Writing & Creative Concepting
+#### An Eye For Design
 
-Over five years in ad agencies in London and in Europe, I have proven my ability to break a problem down and solve it with both logical and lateral thinking.
-I have learned the power of simple, direct communication. And I have developed a discipline for evaluating ideas against a set of criteria.
-
-- I collaborated on a large number of ad campaigns, from initial concepting to production.
-- I won an industry award for an idea to 'gamify' saving between friends - see below.
-- In my first copywriting job I broke an agency fundraising record with a piece for a young homeless Charity.
-- I regularly contribute to the food and travel section of Flux, an online publication.
-
-
-#### Visual Communication and Design
-
-As an Art Director I have learned how to create a visual narrative that speaks to the right people, both online and on-screen.
+As an Art Director I've learned how to create compelling visual narratives.
 
 - I learned how to work with writers, strategists, illustrators and developers.
 - In my spare time, I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
 
+#### Curious Mind
+
+I love to break a problem down and look for hidden
+I have learned the power of simple, direct communication.
+
+- I collaborated on a large number of ad campaigns, from initial concepting to production.
+- I won an industry award for an idea to 'gamify' saving between friends - see below.
+- In my first copywriting job I broke an agency fundraising record with a piece for a young homeless Charity.
+- I regularly contribute to the food and travel section of Flux, an online publication.
 
 
 ## <a name="education"> Previous Education </a>
