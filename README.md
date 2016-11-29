@@ -32,7 +32,7 @@ I keep a weekly blog about my coding on Medium [here](https://medium.com/@lawren
 #### <a name="projects"> Projects Worked On </a>
 
 |                     PROJECT NAME                        |                     DESCRIPTION                          | TECHNOLOGIES   | TIMEFRAME
-|---------------------------------------------------------|----------------------------------------------------------|----------------------------
+|---------------------------------------------------------|----------------------------------------------------------|----------------|-----------
 |[Final Project]()                                        |                                                          |                | 2 weeks
 |[MeteorBattle]()                                         | A turn-based multiplayer game - bit like Pokemon         | MeteorJS       | 1 week
 |[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters   | Rails          | 1 weekend                          
