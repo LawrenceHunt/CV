@@ -1,5 +1,7 @@
 ## Lawrence Hunt
-*Junior Full-Stack Developer*
+*Junior Full-Stack Web Developer*
+
+Freelance web developer
 
 I get most excited about projects where I can work in the full stack. In my final 2 weeks at Makers Academy I built a
 
@@ -9,7 +11,7 @@ Now, after graduating from Europe's top coding bootcamp, I'm hooked on programmi
 Ambitious and team-driven, I'm confident in my ability to contribute from day one and pick up new technologies quickly. BACK THIS UP - 2 WEEKS BUILT A FULL STACK PROJECT -
 I am looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
 
-I .
+I keep a weekly blog about my coding on Medium [here](https://medium.com/@lawrencehunt).
 
 [Makers Academy](#makers) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
 
@@ -25,19 +27,16 @@ I .
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
-- I keep a weekly blog about my coding on Medium [here](https://medium.com/@lawrencehunt).
+
 
 #### <a name="projects"> Projects Worked On </a>
-- [HauntedBnB](https://github.com/LawrenceHunt/makersbnb) - an AirBnB-style web app for listing haunted spaces, using Ruby, Sinatra, JQuery, PostgreSQL & DataMapper
-- [Chitter](https://github.com/LawrenceHunt/chitter-challenge) - a Twitter-style web app for community posting, featuring Ruby, Sinatra, PostgreSQL & DataMapper
-- [Trump Paper Scissors](https://github.com/LawrenceHunt/rps-challenge) - A rock paper scissors game with an election-themed twist - Ruby, Sinatra
 
-|                     PROJECT NAME                        |                               DESCRIPTION                                  |
-|---------------------------------------------------------|----------------------------------------------------------------------------|
-|[Final Project]                                          |                                                                            |
-|[MeteorBattle]()                                         |                                                                            |
-|[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM))  | Instagram clone with HashTags, likes and photo filters - built in Rails    |                                  
-|[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | Feel terrified anywhere in the world. AirBnB clone built in Sinatra        |
+|                     PROJECT NAME                        |                     DESCRIPTION                          | TECHNOLOGIES   | TIMEFRAME
+|---------------------------------------------------------|----------------------------------------------------------|----------------------------
+|[Final Project]()                                        |                                                          |                | 2 weeks
+|[MeteorBattle]()                                         | A turn-based multiplayer game - bit like Pokemon         | MeteorJS       | 1 week
+|[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters   | Rails          | 1 weekend                          
+|[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone    | Sinatra        | 1 week
 
 
 ## <a name="skills"> What I can offer </a>
@@ -50,7 +49,7 @@ As an Art Director I've learned how to create compelling visual narratives.
 - In my spare time, I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
 
-#### Curious Mind
+#### A Curious Mind
 
 I love to break a problem down and look for hidden
 I have learned the power of simple, direct communication.
