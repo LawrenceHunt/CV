@@ -1,7 +1,7 @@
 ## Lawrence Hunt
 
 I'm a Junior Full-Stack Web Developer with a background in Design and Advertising.
-Two things excite me more than anything: looking for creative solutions to big problems, and building digital experiences that captivate.
+Two things excite me above all else: looking for creative solutions to big problems, and building digital experiences that captivate.
 
 For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
 Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
@@ -42,20 +42,20 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 
 #### A Curious Mind
 
-I love to pick up new skills - whether it's a new language, framework or software package.
+I love to pick up new things and try to spot the underlying patterns that help you master the basics - whether it's a new language, framework or obscure strategy game.
 I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently trying my hand at Unity.
 
 #### An Eye For Design and User Experience
 
-As an Art Director I've learned how to create compelling visual narratives, and to communicate messages in a way that sticks.
+As an Art Director I've learned how to create compelling visual narratives, and to communicate a message in ways that stick.
 
-- I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
-- I learned how to work with writers, strategists, illustrators and experienced developers.
+- I have learned how to work with writers, strategists, illustrators and senior developers.
 - I can present ideas clearly with well-designed wireframes and slide decks.
+- I also helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
 ### Enthusiastic about ideas
 
-I love to brainstorm solutions to a problem. I can concept alone or with a team, asking the right questions to generate lots of ideas quickly.
+I'm good at asking the right questions to generate lots of ideas quickly. I'm happy brainstorming alone or as a lively member of a team.
 
 - While in advertising I collaborated on a large number of ads and content pieces, from initial concepting to production.
   Like [this one](https://vimeo.com/132842374). And [this one](http://huntzachy.com/work/subway/).
