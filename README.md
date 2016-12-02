@@ -1,17 +1,21 @@
 ## Lawrence Hunt
-*Junior Full-Stack Web Developer with a background in Design and Advertising*
 
-Two things excite me more than anything: looking for creative solutions to problems, and creating captivating digital experiences.
+I'm a Junior Full-Stack Web Developer with a background in Design and Advertising.
+Two things excite me more than anything: looking for creative solutions to big problems, and building digital experiences that captivate.
 
-For 5 years I've worked in the creative departments of some top London ad agencies, while freelancing as a front end designer/developer for the Institute of Psychoanalysis.
+For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
 Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
 
-I get most excited about projects where I can work in the full stack, and I love to experiment with new technologies - particularly those built on JavaScript.
-In my final 2 weeks at Makers Academy I learned Meteor.js and used it to build an app that turns saving into a multiplayer game between friends.
+I feel most energised by team projects where I can work in the full stack, and I love to teach myself new technologies - particularly those built on JavaScript.
+In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working on an ad campaign for a bank: an app that turns saving for a mortgage into a social game between friends.
 
-I track my weekly progress as a developer on my blog [here](https://medium.com/@lawrencehunt).
+I blog my weekly progress as a developer [here](https://medium.com/@lawrencehunt).
 
-I'm looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and I can continue to learn as quickly as I have been.
+###What I'm after
+
+I'm looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and where I can continue to learn as quickly as I have been.
+
+###Contents
 
 [Makers Academy](#makers) | [Projects](#projects) | [What I can offer](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
 
@@ -20,49 +24,51 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js, Meteor.js
-- Testing frameworks: Rspec, Jasmine, Mocha (running on Chimp)
+- Javascript, Node.js, Angular.js, Meteor.js, Ruby, Rails, HTML, CSS
+- Testing frameworks: Jasmine, Mocha, Rspec
 
 
 #### <a name="projects"> Projects Worked On </a>
 
-|                     PROJECT NAME                        |                     DESCRIPTION                          | TECHNOLOGIES   | TIMEFRAME
-|---------------------------------------------------------|----------------------------------------------------------|----------------|-----------
-|[Final Project]()                                        |                                                          |                | 2 weeks
-|[MeteorBattle]()                                         | A turn-based multiplayer game - bit like Pokemon         | MeteorJS       | 1 week
-|[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters   | Rails          | 1 weekend                          
-|[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone    | Sinatra        | 1 week
-
+|                     PROJECT NAME                        |                     DESCRIPTION                       | TECH           | TIMEFRAME
+|---------------------------------------------------------|-------------------------------------------------------|----------------|-----------
+|[Final Project]()                                        |                                                       |                | 2 weeks
+|[MeteorBattle](https://github.com/B-raw/meteorBattle)    | A turn-based multiplayer game                         | MeteorJS       | 1 week
+|[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters| Rails          | 1 weekend                        
+|[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone | Sinatra        | 1 week
+|[This is the News](https://github.com/LawrenceHunt/This-is-the-News) | Single Page news app            | JavaScript, Guardian API | 1 weekend
 
 ## <a name="skills"> What I can offer </a>
 
 #### A Curious Mind
 
-I love to pick up a new skill and master the basics, whether
-break a problem down and look for the answer that no one thought to look for.
+I love to pick up new skills - whether it's a new language, framework or software package.
+I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently trying my hand at Unity.
 
-- I collaborated on a large number of ad campaigns, from initial concepting to production.
-- I won an industry award for an idea to 'gamify' saving between friends - see below.
-- In my first copywriting job I broke an agency fundraising record with a piece for a young homeless Charity.
-- I regularly contribute to the food and travel section of [Flux](http://www.fluxmagazine.com/antwerp-takes-the-spotlight/), an online publication.
+#### An Eye For Design and User Experience
 
+As an Art Director I've learned how to create compelling visual narratives, and to communicate messages in a way that sticks.
 
-#### An Eye For Design and UX
-
-As an Art Director I've learned how to create compelling visual narratives.
-
+- I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 - I learned how to work with writers, strategists, illustrators and experienced developers.
 - I can present ideas clearly with well-designed wireframes and slide decks.
-- I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
+
+### Enthusiastic about ideas
+
+I love to brainstorm solutions to a problem. I can concept alone or with a team, asking the right questions to generate lots of ideas quickly.
+
+- While in advertising I collaborated on a large number of ads and content pieces, from initial concepting to production.
+  Like [this one](https://vimeo.com/132842374). And [this one](http://huntzachy.com/work/subway/).
+- I won an industry award for a speculative concept to 'gamify' saving between friends - see below.
 
 
 ## <a name="education"> Previous Education </a>
 
 #### School of Communication Arts 2.0 (September 2013 - July 2014)
 
-- Developed a portfolio of speculative creative campaigns during this selective advertising programme.
+- Developed a portfolio of speculative creative campaigns while at this selective advertising programme.
 - Won a competition to partner with Brothers Cider to create a new Mead drink.
-- Won a prize in a class animation competition.
+- Won a prize in a class 2D animation competition.
 - Trained in the full Adobe Suite including Photoshop, Illustrator, InDesign, After Effects and Premiere.
 
 #### Warwick University (September 2008 - July 2011)
@@ -116,4 +122,4 @@ Writing copy for a number of charities including YMCA, Barnardo's, Sense and Uni
 
 ## <a name = "interests">Further Interests</a>
 
-- Food writing, animation, saxophone, Krav Maga
+- [Travel writing](http://www.fluxmagazine.com/antwerp-takes-the-spotlight/), animation, saxophone, Krav Maga
