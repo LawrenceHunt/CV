@@ -9,7 +9,7 @@ Now after an intensive 16 week coding bootcamp, I've matured into a confident fu
 I feel most energised by team projects where I can work in the full stack, and I love to teach myself new technologies - particularly those built on JavaScript.
 In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working on an ad campaign for a bank: an app that turns saving for a mortgage into a social game between friends.
 
-I blog my weekly progress as a developer [here](https://medium.com/@lawrencehunt).
+I also blog my weekly progress as a developer [here](https://medium.com/@lawrencehunt)!
 
 ###What I'm after
 
@@ -45,19 +45,19 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 I love to pick up new things and try to spot the underlying patterns that help you master the basics - whether it's a new language, framework or obscure strategy game.
 I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently trying my hand at Unity.
 
-#### An Eye For Design and User Experience
+#### An Eye for Design and User Experience
 
-As an Art Director I've learned how to create compelling visual narratives, and to communicate a message in ways that stick.
+As an Art Director I've learned how to create compelling visual narratives communicate a message emotively.
 
 - I have learned how to work with writers, strategists, illustrators and senior developers.
 - I can present ideas clearly with well-designed wireframes and slide decks.
 - I also helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
-### Enthusiastic about ideas
+### Enthusiastic Problem Solver
 
-I'm good at asking the right questions to generate lots of ideas quickly. I'm happy brainstorming alone or as a lively member of a team.
+Whether troubleshooting code or generating new ideas, I'm good at asking the right questions to find an answer. I'm equally happy brainstorming alone or as a member of a lively team.
 
-- While in advertising I collaborated on a large number of ads and content pieces, from initial concepting to production.
+- I collaborated on a large number of commercial and content pieces, from initial concepting to production.
   Like [this one](https://vimeo.com/132842374). And [this one](http://huntzachy.com/work/subway/).
 - I won an industry award for a speculative concept to 'gamify' saving between friends - see below.
 
