@@ -6,8 +6,8 @@ Two things excite me above all else: looking for creative solutions to big probl
 For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
 Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
 
-I feel most energised by team projects where I can work in the full stack, and I love to teach myself new technologies - particularly those built on JavaScript.
-In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working on an ad campaign for a bank: an app that turns saving for a mortgage into a social game between friends.
+I feel most energised by team projects where I can work in the full stack, and I love to pick up new technologies - particularly those built on JavaScript.
+In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working in advertising: an app that turns saving for a mortgage into a social game between friends.
 
 I also blog my weekly progress as a developer [here](https://medium.com/@lawrencehunt)!
 
@@ -38,28 +38,32 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 |[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone | Sinatra        | 1 week
 |[This is the News](https://github.com/LawrenceHunt/This-is-the-News) | Single Page news app            | JavaScript, Guardian API | 1 weekend
 
+
+
 ## <a name="skills"> What I can offer </a>
 
-#### A Curious Mind
+#### Curiosity
 
-I love to pick up new things and try to spot the underlying patterns that help you master the basics - whether it's a new language, framework or obscure strategy game.
+I love trying out the latest tools - whether it's a new language, framework or software package.
 I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently trying my hand at Unity.
 
-#### An Eye for Design and User Experience
+#### An Eye for Design and UX
 
-As an Art Director I've learned how to create compelling visual narratives communicate a message emotively.
+As an Art Director I've learned how to weave words and pictures into compelling narratives.
 
 - I have learned how to work with writers, strategists, illustrators and senior developers.
-- I can present ideas clearly with well-designed wireframes and slide decks.
-- I also helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
+- I can confidently put together wireframes and presentations.
+- I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
-### Enthusiastic Problem Solver
+#### Problem Solver
 
-Whether troubleshooting code or generating new ideas, I'm good at asking the right questions to find an answer. I'm equally happy brainstorming alone or as a member of a lively team.
+Whether troubleshooting code or coming up with new projects to work on, I'm good at asking the right questions and coming up with the right strategies to tackle a specific problem.
+I'm equally happy brainstorming alone or as a member of a lively team.
 
-- I collaborated on a large number of commercial and content pieces, from initial concepting to production.
+- In my advertising job I worked on a large number of content for all platforms, seeing them through from initial concepting to production.
   Like [this one](https://vimeo.com/132842374). And [this one](http://huntzachy.com/work/subway/).
 - I won an industry award for a speculative concept to 'gamify' saving between friends - see below.
+
 
 
 ## <a name="education"> Previous Education </a>
