@@ -66,6 +66,8 @@ I'm equally happy brainstorming alone or as a member of a lively team.
 
 
 
+
+
 ## <a name="education"> Previous Education </a>
 
 #### School of Communication Arts 2.0 (September 2013 - July 2014)
@@ -84,10 +86,15 @@ I'm equally happy brainstorming alone or as a member of a lively team.
 
 
 
+
+
 ## <a name="awards"> Awards </a>
 
 #### Graphite Pencil, D&AD New Blood 2015 (International Creative Industry Awards)
 - For [this concept to gamify saving between groups of friends](https://www.youtube.com/watch?v=RSRq5E6t5dU)) - click to watch my animated video.
+
+
+
 
 
 
