@@ -15,9 +15,13 @@ I also blog weekly about my progress as a developer [here](https://medium.com/@l
 
 I'm looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and where I can continue to learn as quickly as I have been.
 
-###Contents
+
+
+##Contents
 
 [Makers Academy](#makers) | [Projects](#projects) | [What I can offer](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
+
+
 
 
 ## <a name="makers"> Technical skills learned at Makers Academy (September-December 2016)</a>
@@ -28,13 +32,17 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 - Testing frameworks: Jasmine, Mocha, Rspec
 
 
-#### <a name="projects"> Projects Worked On </a>
+
+
+## <a name="projects"> Projects Worked On </a>
 
 |                     PROJECT NAME                        |                     DESCRIPTION                       | TECH           | TIMEFRAME
 |---------------------------------------------------------|-------------------------------------------------------|----------------|-----------
 |[Save a Nation](https://github.com/LawrenceHunt/saveanation)| Makes saving for your first home a team game.      | MeteorJ        | 2 weeks
 |[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters| Rails          | 1 weekend                        
 |[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone | Sinatra        | 1 week
+
+
 
 
 
