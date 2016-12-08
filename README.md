@@ -9,7 +9,7 @@ Now after an intensive 16 week coding bootcamp, I've matured into a confident fu
 I feel most energised by team projects where I can work in the full stack, and I love to pick up new technologies - particularly those built on JavaScript.
 In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working in advertising: an app that turns saving for a mortgage into a social game between friends.
 
-I also blog my weekly progress as a developer [here](https://medium.com/@lawrencehunt)!
+I also blog weekly about my progress as a developer [here](https://medium.com/@lawrencehunt).
 
 ###What I'm after
 
@@ -32,30 +32,28 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 
 |                     PROJECT NAME                        |                     DESCRIPTION                       | TECH           | TIMEFRAME
 |---------------------------------------------------------|-------------------------------------------------------|----------------|-----------
-|[Final Project]()                                        |                                                       |                | 2 weeks
-|[MeteorBattle](https://github.com/B-raw/meteorBattle)    | A turn-based multiplayer game                         | MeteorJS       | 1 week
+|[Save a Nation](https://github.com/LawrenceHunt/saveanation)| Makes saving for your first home a team game.      | MeteorJ        | 2 weeks
 |[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters| Rails          | 1 weekend                        
 |[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone | Sinatra        | 1 week
-|[This is the News](https://github.com/LawrenceHunt/This-is-the-News) | Single Page news app            | JavaScript, Guardian API | 1 weekend
 
 
 
 ## <a name="skills"> What I can offer </a>
 
-#### Curiosity
+### Curiosity
 
-I love trying out the latest tools - whether it's a new language, framework or software package.
-I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently trying my hand at Unity.
+I love picking up a new tool and figuring out how to use it - whether it's a new language, framework or software package.
+I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently working on a project in Unity.
 
-#### An Eye for Design and UX
+### An Eye for Design and UX
 
-As an Art Director I've learned how to weave words and pictures into compelling narratives.
+As an Art Director I've learned how to weave pictures and words into compelling narratives.
 
-- I have learned how to work with writers, strategists, illustrators and senior developers.
+- I've learned how to work with writers, strategists, illustrators and senior developers.
 - I can confidently put together wireframes and presentations.
 - I helped completely overhaul the visual identity of a major psychoanalytical organisation, including its [website](https://www.psychoanalysis.org.uk)
 
-#### Problem Solver
+### Problem Solver
 
 Whether troubleshooting code or coming up with new projects to work on, I'm good at asking the right questions and coming up with the right strategies to tackle a specific problem.
 I'm equally happy brainstorming alone or as a member of a lively team.
@@ -70,14 +68,14 @@ I'm equally happy brainstorming alone or as a member of a lively team.
 
 ## <a name="education"> Previous Education </a>
 
-#### School of Communication Arts 2.0 (September 2013 - July 2014)
+### School of Communication Arts 2.0 (September 2013 - July 2014)
 
 - Developed a portfolio of speculative creative campaigns while at this selective advertising programme.
 - Won a competition to partner with Brothers Cider to create a new Mead drink.
 - Won a prize in a class 2D animation competition.
 - Trained in the full Adobe Suite including Photoshop, Illustrator, InDesign, After Effects and Premiere.
 
-#### Warwick University (September 2008 - July 2011)
+### Warwick University (September 2008 - July 2011)
 
 - First Class Hons. in English Literature & Creative Writing
 - Wrote and directed a number of student shorts
@@ -90,7 +88,7 @@ I'm equally happy brainstorming alone or as a member of a lively team.
 
 ## <a name="awards"> Awards </a>
 
-#### Graphite Pencil, D&AD New Blood 2015 (International Creative Industry Awards)
+### Graphite Pencil, D&AD New Blood 2015 (International Creative Industry Awards)
 - For [this concept to gamify saving between groups of friends](https://www.youtube.com/watch?v=RSRq5E6t5dU)) - click to watch my animated video.
 
 
