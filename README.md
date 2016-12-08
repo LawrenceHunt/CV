@@ -1,7 +1,7 @@
 ## Lawrence Hunt
 
-**I'm a Junior Full-Stack Web Developer with a background in Design and Advertising.
-Two things excite me above all else: looking for creative solutions to big problems, and building digital experiences that captivate.**
+**I'm a Junior Full-Stack Web Developer with a background in Design and Advertising.**
+**Two things excite me above all else: looking for creative solutions to big problems, and building digital experiences that captivate.**
 
 For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
 Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
