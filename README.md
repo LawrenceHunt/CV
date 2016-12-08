@@ -98,8 +98,8 @@ I'm equally happy brainstorming alone or as a member of a lively team.
 ## <a name="awards"> Awards </a>
 
 ### Graphite Pencil, D&AD New Blood 2015 (International Creative Industry Awards)
-- For [this concept to gamify saving between groups of friends](https://www.youtube.com/watch?v=RSRq5E6t5dU)) - click to watch my animated video.
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RSRq5E6t5dU/0.jpg)](http://www.youtube.com/watch?v=RSRq5E6t5dU)
+- For this concept to gamify saving between groups of friends - click the image to watch my animated video.
+[![Save a Nation - save with friends](http://img.youtube.com/vi/RSRq5E6t5dU/0.jpg)](http://www.youtube.com/watch?v=RSRq5E6t5dU)
 
 
 
