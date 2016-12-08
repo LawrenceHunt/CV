@@ -39,7 +39,7 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 
 |                     PROJECT NAME                        |                     DESCRIPTION                       | TECH           | TIMEFRAME
 |---------------------------------------------------------|-------------------------------------------------------|----------------|-----------
-|[Save a Nation](https://github.com/LawrenceHunt/saveanation)| Makes saving for your first home a team game.      | MeteorJ        | 2 weeks
+|[Save a Nation](https://github.com/LawrenceHunt/saveanation)| Makes saving for your first home a team game.      | MeteorJS       | 2 weeks
 |[InstaBLAM](https://github.com/LawrenceHunt/InstaBLAM)   | Instagram clone with HashTags, likes and photo filters| Rails          | 1 weekend                        
 |[HauntedBnB](https://github.com/LawrenceHunt/makersbnb)  | "Feel terrified anywhere in the world" - AirBnB clone | Sinatra        | 1 week
 
