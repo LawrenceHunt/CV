@@ -67,7 +67,7 @@ As an Art Director I've learned how to weave pictures and words into compelling 
 Whether troubleshooting code or coming up with new projects to work on, I'm good at asking the right questions and coming up with the right strategies to tackle a specific problem.
 I'm equally happy brainstorming alone or as a member of a lively team.
 
-- In my advertising job I worked on a large number of content for all platforms, seeing them through from initial concepting to production.
+- In my advertising job I worked on a large number of content pieces on all platforms, seeing them through from initial concepting to production.
   Like [this one](https://vimeo.com/132842374). And [this one](http://huntzachy.com/work/subway/).
 - I won an industry award for a speculative concept to 'gamify' saving between friends - see below.
 
