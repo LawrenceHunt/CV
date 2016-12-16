@@ -1,5 +1,6 @@
 ## Lawrence Hunt
 
+
 **I'm a Junior Full-Stack Web Developer with a background in Design and Advertising.**
 **Two things excite me above all else: looking for creative solutions to big problems, and building digital experiences that captivate.**
 
@@ -98,7 +99,9 @@ I'm equally happy brainstorming alone or as a member of a lively team.
 ## <a name="awards"> Awards </a>
 
 ### Graphite Pencil, D&AD New Blood 2015 (International Creative Industry Awards)
-For this concept to gamify saving between groups of friends.
+Nationwide were looking for ways to become more relevant to the digital generation.
+I won an award for this idea to gamify saving for a house between groups of friends.
+At Makers Academy I then pitched the idea to my classmates and we developed it as a proof of concept!
 Click the image to watch my animated video.
 
 
