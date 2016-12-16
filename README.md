@@ -29,7 +29,8 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Proficient with Git
+- Pair programming
+- Git & Github
 - Javascript, Node.js, Angular.js, Meteor.js, Ruby, Rails, HTML, CSS
 - Testing frameworks: Jasmine, Mocha, Rspec
 
