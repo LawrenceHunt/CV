@@ -7,7 +7,7 @@
 For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
 Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
 
-I feel most energised by team projects where I can work in the full stack, and I love to pick up new technologies - particularly those built on JavaScript.
+I feel most energised by team projects where I can work in the full stack, and I love experimenting with new technologies.
 In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working in advertising: an app that turns saving for a mortgage into a social game between friends.
 
 I also blog weekly about my progress as a developer [here](https://medium.com/@lawrencehunt).
@@ -54,7 +54,7 @@ I'm looking for a Junior Full Stack role in an agile environment where my creati
 ### Curiosity
 
 I love picking up a new tool and figuring out how to use it - whether it's a new language, framework or software package.
-I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently working on a project in Unity.
+I taught msyelf Meteor.js for my final project at Makers Academy, and I'm currently working on a 3D game in Unity.
 
 ### An Eye for Design and UX
 
@@ -67,9 +67,9 @@ As an Art Director I've learned how to weave pictures and words into compelling 
 ### Problem Solver
 
 Whether troubleshooting code or coming up with new projects to work on, I'm good at asking the right questions and coming up with the right strategies to tackle a specific problem.
-I'm equally happy brainstorming alone or as a member of a lively team.
+I'm happy brainstorming alone or as a member of a lively team.
 
-- In my advertising job I worked on a large number of content pieces on all platforms, seeing them through from initial concepting to production.
+- In my advertising job I worked on a large number of content pieces on all platforms, seeing them through from initial concepting stage to production.
   Like [this one](https://vimeo.com/132842374). And [this one](http://huntzachy.com/work/subway/).
 - I won an industry award for a speculative concept to 'gamify' saving between friends - see below.
 
