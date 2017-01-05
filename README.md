@@ -14,7 +14,7 @@ I also blog weekly about my progress as a developer [here](https://medium.com/@l
 
 ###What I'm after
 
-I'm looking for a Junior Full Stack role in an agile environment where my creative experience will be valued, and where I can continue to learn as quickly as I have been.
+I'm looking for a Junior role in an agile environment where my creative experience will be valued, and where I can continue to learn as quickly as I have been.
 
 
 
