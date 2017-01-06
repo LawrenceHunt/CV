@@ -7,12 +7,10 @@
 For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
 Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
 
-I feel most energised by team projects where I can work in the full stack, and I love experimenting with new technologies.
-In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an idea I'd had while working in advertising: an app that turns saving for a mortgage into a social game between friends.
+I feel most energised by team projects where I can work in the full stack, and I'm comfortable picking up new technologies quickly.
+In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an app to help young people save for a house.
 
 I also blog weekly about my progress as a developer [here](https://medium.com/@lawrencehunt).
-
-###What I'm after
 
 I'm looking for a Junior role in an agile environment where my creative experience will be valued, and where I can continue to learn as quickly as I have been.
 
@@ -20,15 +18,16 @@ I'm looking for a Junior role in an agile environment where my creative experien
 
 ##Contents
 
-[Makers Academy](#makers) | [Projects](#projects) | [What I can offer](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
+[Technical Skills](#makers) | [Projects](#projects) | [What I can offer](#skills) | [Education](#education) | [Awards](#awards) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@lawrencehunt)
 
 
 
 
 ## <a name="makers"> Technical skills learned at Makers Academy (September-December 2016)</a>
 
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Object Oriented Programming
+- Test Driven Design
+- Software Craftsmanship including SOLID principles
 - Pair programming
 - Git & Github
 - Javascript, Node.js, Angular.js, Meteor.js, Ruby, Rails, HTML, CSS
