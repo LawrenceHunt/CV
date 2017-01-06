@@ -28,6 +28,7 @@ I'm looking for a Junior role in an agile environment where my creative experien
 - Object Oriented Programming
 - Test Driven Design
 - Software Craftsmanship including SOLID principles
+- Agile project managemnent
 - Pair programming
 - Git & Github
 - Javascript, Node.js, Angular.js, Meteor.js, Ruby, Rails, HTML, CSS
