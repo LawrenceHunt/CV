@@ -5,7 +5,7 @@
 **Two things excite me above all else: looking for creative solutions to big problems, and building captivating digital experiences.**
 
 For 5 years I've worked in the creative departments of some top London ad agencies, while also freelancing as a front end designer/developer for the Institute of Psychoanalysis.
-Now after an intensive 16 week coding bootcamp, I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
+Now after an intensive 16 week coding bootcamp at [Makers Academy](http://employers.makersacademy.com/), I've matured into a confident full stack junior developer, capable of writing clean, test-driven code that follows SOLID principles.
 
 I feel most energised by team projects where I can work in the full stack, and I'm comfortable picking up new technologies quickly.
 In my final 2 weeks at Makers Academy I taught myself Meteor.js and used it to build an app to help young people save for a house.
