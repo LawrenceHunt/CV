@@ -1,7 +1,5 @@
 ## Lawrence Hunt
-huntlawrence@gmail.com
-
-Tel: 07783-443-580
+_huntlawrence@gmail.com // 07783-443-580_
 
 **I'm a Junior Full-Stack Web Developer with a background in Design and Advertising.**
 **Two things excite me above all else: looking for creative solutions to big problems, and building captivating digital experiences.**
