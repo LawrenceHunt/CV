@@ -31,8 +31,12 @@ I'm looking for a Junior role in an agile environment where my creative experien
 - Agile project management
 - Pair programming
 - Git & Github
-- Javascript, Node.js, Angular.js, Meteor.js, Ruby, Rails, HTML, CSS
-- Testing frameworks: Jasmine, Mocha, Rspec
+- Javascript, Node.js, Angular.js, Meteor.js, Jasmine, Mocha
+- Ruby, Rails, RSpec, Capybara
+- HTML, CSS, SASS
+- C#, .Net, Visual Studio
+- Java, JUnit, IntelliJ
+
 
 
 
